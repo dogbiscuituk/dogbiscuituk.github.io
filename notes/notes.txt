@@ -1,0 +1,12 @@
+Title
+Dogs, New York and Pacman
+
+Colour
+#3F7FBF
+
+Font
+<link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+
+Font CSS
+font-family: 'Rubik', sans-serif;
+
